@@ -3,7 +3,10 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Python</b>
-  - AtliQ Hotel Analysis (Datastructures and Solutions
+  - AtliQ Hotel Analysis (Datastructures and Solutions)
+ - <b>SQL,Tableau</b>
+   - Customer Sales Analysis
+   - Bike Stores Analysis
 
 <h2> 📄  Certifications:</h2>
 - Google Data Analytics Certificate
