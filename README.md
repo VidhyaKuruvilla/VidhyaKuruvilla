@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Python</b>
-  - [AtliQ Hotel Analysis (Datastructures and Solutions)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - AtliQ Hotel Analysis (Datastructures and Solutions
 
 <h2> 📄  Certifications:</h2>
 - Google Data Analytics Certificate
