@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vidhya! <br/><a href="https://github.com/VidhyaKuruvilla">Data Scientist</a>, <a href="https://www.linkedin.com/in/jVidhyaKuruvilla">Assistant Professor</a>
+<h1>Hi, I'm Vidhya! <br/><a href="https://www.linkedin.com/in/vidhya-kuruvilla/">Data Scientist</a>, <a href="https://www.linkedin.com/in/vidhya-kuruvilla/">Assistant Professor</a>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
