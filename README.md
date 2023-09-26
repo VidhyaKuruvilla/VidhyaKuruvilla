@@ -6,7 +6,7 @@
   - [AtliQ Hotel Analysis (Datastructures and Solutions)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2> 📄  Certifications:</h2>
-- [Google Data Analytics Certificate](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- Google Data Analytics Certificate
 
 
 <h2> 🤳 Connect with me:</h2>
