@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Python</b>
-  - AtliQ Hotel Analysis (Datastructures and Solutions)
+  - Datastructures and Solutions on Hotels Revenue
  - <b>SQL,Tableau</b>
    - Customer Sales Analysis
    - Bike Stores Analysis
